@@ -1,0 +1,44 @@
+body{
+    background-color:  hsl(216, 12%, 8%);
+    font-family: 'Overpass', sans-serif;
+    font-size: 15px;
+    box-sizing: border-box;
+    /* justify-content: center;
+    align-items: center; */
+    color: white;
+}
+
+.container{
+    margin: auto;
+}
+
+.box {
+    width: 270px;
+    height: 270px;
+    /* margin: auto; */
+    background-color: hsl(213, 19%, 18%);
+    margin-top: 10em;
+    padding: 30px;
+    border-radius: 20px;
+    font-size: 15px;
+    /* justify-content: center; */
+  
+}
+
+button {
+    padding: 6px;
+    width: 80%;
+    font-family: 'Overpass', sans-serif;
+    border: none;
+    /* background-color: hsl(216, 12%, 54%); */
+    color: hsl(25, 97%, 53%);
+    border-radius: 15px;
+    margin-top: 10px;
+}
+
+.box p{
+    color: hsl(217, 12%, 63%);
+    font-size: 12px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
